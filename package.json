@@ -1,0 +1,26 @@
+{
+  "name": "stripe_confirm",
+  "version": "1.0.0",
+  "description": "Confirm package",
+  "main": "script/stripe.js",
+  "scripts": {
+    "start": "browser-sync start --server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilnabin25/stripe_confirm.git"
+  },
+  "keywords": [
+    "stripe"
+  ],
+  "author": "Divya Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anilnabin25/stripe_confirm/issues"
+  },
+  "homepage": "https://github.com/anilnabin25/stripe_confirm#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
